@@ -69,36 +69,36 @@
 
 ## Reserved instances
 
-| en-us                                                                                                       | ja-jp                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Buy virtual machine reserved instances to save money over pay-as-you-go costs                               | 従量課金のコストより費用を節約する仮想マシンの予約インスタンスを購入する                                            |
-| Consider App Service reserved instances to save over your on-demand costs                                   | オンデマンドの場合よりもコストを削減するために App Service の予約インスタンスを検討する                             |
-| Consider Azure Cosmos DB reserved instances to save over your pay-as-you-go costs                           | 従量課金制の場合よりもコストを削減するために Azure Cosmos DB の予約インスタンスを検討する                           |
-| Consider virtual machine reserved instances to save over your on-demand costs                               | オンデマンドの場合よりもコストを削減するために仮想マシンの予約インスタンスを検討する                                |
-| Consider Cosmos DB reserved instances to save over your pay-as-you-go costs                                 | 従量課金制の場合よりもコストを削減するために Cosmos DB の予約インスタンスを検討する                                 |
-| Consider SQL PaaS DB reserved instances to save over your pay-as-you-go costs                               | 従量課金制の場合よりもコストを削減するために SQL PaaS DB の予約インスタンスを検討する                               |
-| Consider App Service stamp fee reserved instances to save over your on-demand costs                         | オンデマンドの場合より節約するために App Service スタンプ料金の予約インスタンスを検討する                           |
-| Consider Database for MariaDB reserved instances to save over your pay-as-you-go costs                      | 従量課金制の場合よりもコストを削減するために Database for MariaDB の予約インスタンスを検討する                      |
-| Consider Database for MySQL reserved instances to save over your pay-as-you-go costs                        | 従量課金制の場合よりもコストを削減するために Database for MySQL の予約インスタンスを検討する                        |
-| Consider Database for PostgreSQL reserved instances to save over your pay-as-you-go costs                   | 従量課金制の場合よりもコストを削減するために Database for PostgreSQL の予約インスタンスを検討する                   |
-| Consider Cache for Redis reserved instances to save over your pay-as-you-go costs                           | 従量課金制の場合よりもコストを削減するために Cache for Redis の予約インスタンスを検討する                           |
-| Consider Azure Synapse Analytics (formerly SQL DW) reserved instances to save over your pay-as-you-go costs | 従量課金制の場合よりもコストを削減するために Azure Synapse Analytics (旧称 SQL DW) の予約インスタンスを検討する     |
-| (Preview) Consider Blob storage reserved instances to save on Blob v2 and Data Lake storage Gen2 costs      | (プレビュー) BLOB v2 と Data Lake Storage Gen2 のコストを削減するために BLOB ストレージの予約インスタンスを検討する |
-| Consider Azure Dedicated Host reserved instances to save over your on-demand costs                          | Azure Dedicated Host の予約インスタンスを購入してオンデマンドの場合よりもコストを削減することを検討する             |
-| Consider Data Factory reserved instances to save over your on-demand costs                                  | Data Factory の予約インスタンスを購入してオンデマンドの場合よりもコストを削減することを検討する                     |
-| Consider Azure Data Explorer reserved instances to save over your on-demand costs                           | オンデマンドの場合よりもコストを削減するために Azure Data Explorer の予約インスタンスを検討する                     |
-| Consider Azure Files reserved instances to save over your on-demand costs                                   | Azure Files の予約インスタンスを購入してオンデマンドの場合よりもコストを削減することを検討する                      |
-| Consider Azure VMware Solution reserved instances to save over your on-demand costs                         | オンデマンドの場合よりもコストを削減するために Azure VMware Solution の予約インスタンスを検討する                   |
-| Consider NetApp Storage reserved instances to save over your on-demand costs                                | オンデマンドの場合よりもコストを削減するために NetApp Storage の予約インスタンスを検討する                          |
-| Consider Azure Managed Disk reserved instances to save over your on-demand costs                            | オンデマンドの場合よりもコストを削減するために Azure マネージド ディスクの予約インスタンスを検討する                |
-| Consider Red Hat reserved instances to save over your on-demand costs                                       | オンデマンドの場合よりもコストを削減するために RedHat の予約インスタンスを検討する                                  |
-| Consider RedHat OSA reserved instances to save over your on-demand costs                                    | オンデマンドの場合よりもコストを削減するために RedHat OSA の予約インスタンスを検討する                              |
-| Consider SapHana reserved instances to save over your on-demand costs                                       | オンデマンドの場合よりもコストを削減するために SapHana の予約インスタンスを検討する                                 |
-| Consider SuseLinux reserved instances to save over your on-demand costs                                     | オンデマンドの場合よりもコストを削減するために SuseLinux の予約インスタンスを検討する                               |
-| Consider VMware Cloud Simple reserved instances                                                             | VMware Cloud Simple の予約インスタンスを検討する                                                                    |
-| Configure automatic renewal for your expiring reservation                                                   | 期限切れ間近の予約の自動更新を構成する                                                                              |
-| Purchasing a savings plan for compute could unlock lower prices                                             | コンピューティングの節約プランを購入すると、価格を引き下げられる可能性があります                                    |
-| Consider Cosmos DB reserved instances to save over your pay-as-you-go costs                                 | 従量課金制の場合よりもコストを削減するために Cosmos DB の予約インスタンスを検討する                                 |
+| en-us                                                                                                      | ja-jp                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Buy virtual machine reserved instance to save money over pay-as-you-go costs                               | 従量課金のコストより費用を節約する仮想マシンの予約インスタンスを購入する                                            |
+| Consider App Service reserved instance to save over your on-demand costs                                   | オンデマンドの場合よりもコストを削減するために App Service の予約インスタンスを検討する                             |
+| Consider Azure Cosmos DB reserved instance to save over your pay-as-you-go costs                           | 従量課金制の場合よりもコストを削減するために Azure Cosmos DB の予約インスタンスを検討する                           |
+| Consider virtual machine reserved instance to save over your on-demand costs                               | オンデマンドの場合よりもコストを削減するために仮想マシンの予約インスタンスを検討する                                |
+| Consider Cosmos DB reserved instance to save over your pay-as-you-go costs                                 | 従量課金制の場合よりもコストを削減するために Cosmos DB の予約インスタンスを検討する                                 |
+| Consider SQL PaaS DB reserved instance to save over your pay-as-you-go costs                               | 従量課金制の場合よりもコストを削減するために SQL PaaS DB の予約インスタンスを検討する                               |
+| Consider App Service stamp fee reserved instance to save over your on-demand costs                         | オンデマンドの場合より節約するために App Service スタンプ料金の予約インスタンスを検討する                           |
+| Consider Database for MariaDB reserved instance to save over your pay-as-you-go costs                      | 従量課金制の場合よりもコストを削減するために Database for MariaDB の予約インスタンスを検討する                      |
+| Consider Database for MySQL reserved instance to save over your pay-as-you-go costs                        | 従量課金制の場合よりもコストを削減するために Database for MySQL の予約インスタンスを検討する                        |
+| Consider Database for PostgreSQL reserved instance to save over your pay-as-you-go costs                   | 従量課金制の場合よりもコストを削減するために Database for PostgreSQL の予約インスタンスを検討する                   |
+| Consider Cache for Redis reserved instance to save over your pay-as-you-go costs                           | 従量課金制の場合よりもコストを削減するために Cache for Redis の予約インスタンスを検討する                           |
+| Consider Azure Synapse Analytics (formerly SQL DW) reserved instance to save over your pay-as-you-go costs | 従量課金制の場合よりもコストを削減するために Azure Synapse Analytics (旧称 SQL DW) の予約インスタンスを検討する     |
+| (Preview) Consider Blob storage reserved instance to save on Blob v2 and Data Lake storage Gen2 costs      | (プレビュー) BLOB v2 と Data Lake Storage Gen2 のコストを削減するために BLOB ストレージの予約インスタンスを検討する |
+| Consider Azure Dedicated Host reserved instance to save over your on-demand costs                          | Azure Dedicated Host の予約インスタンスを購入してオンデマンドの場合よりもコストを削減することを検討する             |
+| Consider Data Factory reserved instance to save over your on-demand costs                                  | Data Factory の予約インスタンスを購入してオンデマンドの場合よりもコストを削減することを検討する                     |
+| Consider Azure Data Explorer reserved instance to save over your on-demand costs                           | オンデマンドの場合よりもコストを削減するために Azure Data Explorer の予約インスタンスを検討する                     |
+| Consider Azure Files reserved instance to save over your on-demand costs                                   | Azure Files の予約インスタンスを購入してオンデマンドの場合よりもコストを削減することを検討する                      |
+| Consider Azure VMware Solution reserved instance to save over your on-demand costs                         | オンデマンドの場合よりもコストを削減するために Azure VMware Solution の予約インスタンスを検討する                   |
+| Consider NetApp Storage reserved instance to save over your on-demand costs                                | オンデマンドの場合よりもコストを削減するために NetApp Storage の予約インスタンスを検討する                          |
+| Consider Azure Managed Disk reserved instance to save over your on-demand costs                            | オンデマンドの場合よりもコストを削減するために Azure マネージド ディスクの予約インスタンスを検討する                |
+| Consider Red Hat reserved instance to save over your on-demand costs                                       | オンデマンドの場合よりもコストを削減するために RedHat の予約インスタンスを検討する                                  |
+| Consider RedHat OSA reserved instance to save over your on-demand costs                                    | オンデマンドの場合よりもコストを削減するために RedHat OSA の予約インスタンスを検討する                              |
+| Consider SapHana reserved instance to save over your on-demand costs                                       | オンデマンドの場合よりもコストを削減するために SapHana の予約インスタンスを検討する                                 |
+| Consider SuseLinux reserved instance to save over your on-demand costs                                     | オンデマンドの場合よりもコストを削減するために SuseLinux の予約インスタンスを検討する                               |
+| Consider VMware Cloud Simple reserved instance                                                             | VMware Cloud Simple の予約インスタンスを検討する                                                                    |
+| Configure automatic renewal for your expiring reservation                                                  | 期限切れ間近の予約の自動更新を構成する                                                                              |
+| Purchasing a savings plan for compute could unlock lower prices                                            | コンピューティングの節約プランを購入すると、価格を引き下げられる可能性があります                                    |
+| Consider Cosmos DB reserved instance to save over your pay-as-you-go costs                                 | 従量課金制の場合よりもコストを削減するために Cosmos DB の予約インスタンスを検討する                                 |
 
 ## Storage
 
