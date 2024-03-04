@@ -32,8 +32,6 @@
 
 ## Compute
 
----
-
 | en-us | ja-jp |
 | --- | --- |
 | Standard SSD disks billing caps. | Standard SSD ディスクの課金上限。 |
@@ -43,8 +41,6 @@
 | Use Virtual Machines with Ephemeral OS Disk enabled to save cost and get better performance | エフェメラル OS ディスクが有効になっている仮想マシンを使用してコストを削減し、パフォーマンスを向上させる |
 
 ## Databases
-
----
 
 | en-us | ja-jp |
 | --- | --- |
@@ -58,15 +54,11 @@
 
 ## **Management and Governance**
 
----
-
 | en-us | ja-jp |
 | --- | --- |
 | Purchasing a savings plan for compute could unlock lower prices | コンピューティングの節約プランを購入すると、価格を引き下げられる可能性があります |
 
 ## Networking
-
----
 
 | en-us | ja-jp |
 | --- | --- |
@@ -76,8 +68,6 @@
 | Consider using multiple endpoints under one single Front Door Standard/Premium profile | 1 つの Front Door Standard/プレミアム プロファイルで複数のエンドポイントを使用することを検討する |
 
 ## Reserved instances
-
----
 
 | en-us | ja-jp |
 | --- | --- |
@@ -112,8 +102,6 @@
 
 ## Storage
 
----
-
 | en-us | ja-jp |
 | --- | --- |
 | Use Standard Storage to store Managed Disks snapshots | マネージド ディスクのスナップショットを格納するために Standard Storage を使用する |
@@ -122,3 +110,8 @@
 | Use differential or incremental backup for database workloads | データベースのワークロードに差分または増分バックアップを使用する |
 
 ## Web
+
+| en-us | ja-jp |
+| --- | --- |
+| Right-size underutilized App Service plans | 十分に活用されていない App Service プランのサイズを適切に設定する |
+| Unused/Empty App Service plans | 未使用/空の App Service プラン |
