@@ -32,14 +32,14 @@
 
 ## Compute
 
-| en-us                                                                                                          | ja-jp                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Standard SSD disks billing caps.                                                                               | Standard SSD ディスクの課金上限。                                                                        |
-| Underutilized Disks Identified                                                                                 | 使用率の低いディスクが特定されました                                                                     |
-| You have disks that have not been attached to a VM for more than 30 days. Evaluate if you still need the disk. | 30 日を超えて VM に接続されていないディスクがあります。 ディスクがまだ必要かどうかを評価してください。   |
-| Right-size or shutdown underutilized virtual machine                                                           | 使用率が低い仮想マシンを適切なサイズに変更するかシャットダウンしてください                               |
-| Right-size or shutdown underutilized virtual machine scale sets                                                | 使用率が低い仮想マシン スケール セットを適切なサイズに変更するかシャットダウンしてください               |
-| Use Virtual Machines with Ephemeral OS Disk enabled to save cost and get better performance                    | エフェメラル OS ディスクが有効になっている仮想マシンを使用してコストを削減し、パフォーマンスを向上させる |
+| en-us                                                                                                                   | ja-jp                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Standard SSD disks billing caps.                                                                                        | Standard SSD ディスクの課金上限。                                                                        |
+| Underutilized Disks Identified                                                                                          | 使用率の低いディスクが特定されました                                                                     |
+| You have disks which have not been attached to a VM for more than 30 days. Please evaluate if you still need the disk.. | 30 日を超えて VM に接続されていないディスクがあります。 ディスクがまだ必要かどうかを評価してください。   |
+| Right-size or shutdown underutilized virtual machine                                                                    | 使用率が低い仮想マシンを適切なサイズに変更するかシャットダウンしてください                               |
+| Right-size or shutdown underutilized virtual machine scale sets                                                         | 使用率が低い仮想マシン スケール セットを適切なサイズに変更するかシャットダウンしてください               |
+| Use Virtual Machines with Ephemeral OS Disk enabled to save cost and get better performance                             | エフェメラル OS ディスクが有効になっている仮想マシンを使用してコストを削減し、パフォーマンスを向上させる |
 
 ## Databases
 
